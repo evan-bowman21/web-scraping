@@ -3,9 +3,9 @@ title: "Open APIs and Web Scraping"
 author: "Evan Bowman"
 date: "`r Sys.Date()`"
 output:
-  pdf_document: default
   html_document:
     number_sections: yes
+  pdf_document: default
 ---
 
 ```{r, include=FALSE}
